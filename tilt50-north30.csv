@@ -1,17 +1,4 @@
-NIWA SolarView Calculations
-26 Feb 2018
-
-Description,Address unknown
-Latitude,-41.02
-Longitude,175.54
-Panel Tilt,50
-Bearing,30
-Ground Albedo,0.10
-Climate Zone,WI,Wairarapa
-Years of Data,14
-
 Month,Day,Hour,Temperature,Rel. Hum.,Wind speed,Global Irr.,Diffuse Irr.,Tilted Irr.,Elevation,Azimuth
-,,,¡C,%,m/s,W/m2,W/m2,W/m2,¡,¡
 01,01,00,11.0,88,0.5,0,0,0,0,178
 01,01,01,10.5,91,0.0,0,0,0,0,163
 01,01,02,9.0,91,0.5,0,0,0,0,149
